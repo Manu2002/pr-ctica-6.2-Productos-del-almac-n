@@ -1,0 +1,27 @@
+{
+  "name": "products",
+  "version": "1.0.0",
+  "description": "Aplicación de productos de un almacén",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Juan Segura",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.5",
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwec-batoi/bl1-js-ejer3.1-products.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dwec-batoi/bl1-js-ejer3.1-products/issues"
+  },
+  "homepage": "https://github.com/dwec-batoi/bl1-js-ejer3.1-products#readme"
+}
